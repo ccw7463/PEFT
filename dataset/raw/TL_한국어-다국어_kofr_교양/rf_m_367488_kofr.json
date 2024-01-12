@@ -1,0 +1,17 @@
+{
+	"대분류": "교양",
+	"중분류": "MBN",
+	"소분류": "생생정보마당",
+	"ID": "rf_m_367488",
+	"S-Code": "ko-KR",
+	"T-Code": "fr-FR",
+	"S-Length": "38",
+	"T-Length": "113",
+	"Ratio": "0.336283186",
+	"특수표현": "X",
+	"원문": "그녀는 출퇴근 시간을 이용해 하루에 1시간 정도는 무조건 걷고 있다.",
+	"MT": "Elle marche toujours environ une heure par jour, en utilisant son temps de trajet.",
+	"1차수정": "Elle marche toujours environ une heure par jour, en utilisant son temps de déplacement entre domicile et travail.",
+	"2차수정": "N/A",
+	"최종번역문": "Elle marche toujours environ une heure par jour, en utilisant son temps de déplacement entre domicile et travail."
+}

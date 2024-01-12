@@ -1,0 +1,17 @@
+{
+	"대분류": "교양",
+	"중분류": "KBS",
+	"소분류": "같이 삽시다",
+	"ID": "rf_k_334974",
+	"S-Code": "ko-KR",
+	"T-Code": "fr-FR",
+	"S-Length": "16",
+	"T-Length": "30",
+	"Ratio": "0.533333333",
+	"특수표현": "X",
+	"원문": "가스레인지 불이 안 들어와요.",
+	"MT": "Le voyant de la cuisinière à gaz ne s'allume pas.",
+	"1차수정": "La cuisinière ne s'allume pas.",
+	"2차수정": "N/A",
+	"최종번역문": "La cuisinière ne s'allume pas."
+}

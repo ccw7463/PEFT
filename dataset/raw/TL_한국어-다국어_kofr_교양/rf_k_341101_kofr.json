@@ -1,0 +1,17 @@
+{
+	"대분류": "교양",
+	"중분류": "KBS",
+	"소분류": "같이 삽시다",
+	"ID": "rf_k_341101",
+	"S-Code": "ko-KR",
+	"T-Code": "fr-FR",
+	"S-Length": "24",
+	"T-Length": "80",
+	"Ratio": "0.3",
+	"특수표현": "X",
+	"원문": "남의 집이 있는데 함부로 지나갈 수는 없지.",
+	"MT": "Il y a la maison de quelqu'un d'autre, donc tu ne peux pas passer par là.",
+	"1차수정": "Il y a la maison de quelqu'un d'autre, donc je ne peux pas passer par là sans raison.",
+	"2차수정": "Il y a la maison de quelqu'un d'autre, donc je ne peux pas passer par là à tort.",
+	"최종번역문": "Il y a la maison de quelqu'un d'autre, donc je ne peux pas passer par là à tort."
+}

@@ -1,0 +1,17 @@
+{
+	"대분류": "교양",
+	"중분류": "KBS",
+	"소분류": "질문하는 기자들 Q",
+	"ID": "rf_k_356303",
+	"S-Code": "ko-KR",
+	"T-Code": "fr-FR",
+	"S-Length": "69",
+	"T-Length": "159",
+	"Ratio": "0.433962264",
+	"특수표현": "X",
+	"원문": "제목의 신고가가 들어간 기사만 뽑은 게 이 정도이기 때문에 본문에 신고가가 들어간 기사는 이보다 더 많을 것으로 추정됩니다.",
+	"MT": "Puisqu'il ne s'agit que du nombre d'articles avec un prix de rapport dans le titre, on estime qu'il y a plus d'articles avec un prix de rapport dans le corps.",
+	"1차수정": "Puisqu'il ne s'agit que du nombre d'articles avec un prix de rapport dans le titre, on estime qu'il y a plus d'articles avec un prix de rapport dans le corps.",
+	"2차수정": "Puisqu'il ne s'agit que du nombre d'articles avec le 'prix de rapport' dans le titre, on estime qu'il y a plus d'articles avec 'prix de rapport' dans le corps.",
+	"최종번역문": "Puisqu'il ne s'agit que du nombre d'articles avec le 'prix de rapport' dans le titre, on estime qu'il y a plus d'articles avec 'prix de rapport' dans le corps."
+}

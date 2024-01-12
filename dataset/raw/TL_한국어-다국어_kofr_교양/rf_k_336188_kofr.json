@@ -1,0 +1,17 @@
+{
+	"대분류": "교양",
+	"중분류": "KBS",
+	"소분류": "질문하는 기자들 Q",
+	"ID": "rf_k_336188",
+	"S-Code": "ko-KR",
+	"T-Code": "fr-FR",
+	"S-Length": "24",
+	"T-Length": "84",
+	"Ratio": "0.285714286",
+	"특수표현": "X",
+	"원문": "광고에 나오는 약을 약사에게 달라고 합니다.",
+	"MT": "Vous demandez au pharmacien de vous remettre le médicament de la publicité.",
+	"1차수정": "Vous demandez au pharmacien de vous ordonner un médicament apparus dans les publicités.",
+	"2차수정": "Vous demandez au pharmacien de vous donner un médicament apparu dans les publicités.",
+	"최종번역문": "Vous demandez au pharmacien de vous donner un médicament apparu dans les publicités."
+}

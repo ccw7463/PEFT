@@ -1,0 +1,17 @@
+{
+	"대분류": "교양",
+	"중분류": "MBN",
+	"소분류": "생생정보마당",
+	"ID": "rf_m_362265",
+	"S-Code": "ko-KR",
+	"T-Code": "fr-FR",
+	"S-Length": "25",
+	"T-Length": "90",
+	"Ratio": "0.277777778",
+	"특수표현": "X",
+	"원문": "감기인 줄 알았던 아버지의 병명은 폐암입니다.",
+	"MT": "Le cancer du poumon était le nom de la maladie de mon père, que je croyais être un rhume.",
+	"1차수정": "Le nom de la maladie de mon père, que je croyais être un rhume, était un cancer du poumon.",
+	"2차수정": "N/A",
+	"최종번역문": "Le nom de la maladie de mon père, que je croyais être un rhume, était un cancer du poumon."
+}

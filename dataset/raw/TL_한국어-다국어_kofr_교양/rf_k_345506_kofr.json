@@ -1,0 +1,17 @@
+{
+	"대분류": "교양",
+	"중분류": "KBS",
+	"소분류": "같이 삽시다",
+	"ID": "rf_k_345506",
+	"S-Code": "ko-KR",
+	"T-Code": "fr-FR",
+	"S-Length": "21",
+	"T-Length": "73",
+	"Ratio": "0.287671233",
+	"특수표현": "X",
+	"원문": "불이 꺼질 만하면 나무를 넣는 거군요?",
+	"MT": "Vous mettez du bois quand la lumière s'éteint, n'est-ce pas ?",
+	"1차수정": "Il faut mettre du bois quand le feu est sur le point de s'éteindre.",
+	"2차수정": "Il faut mettre du bois quand le feu est sur le point de s'éteindre, non ?",
+	"최종번역문": "Il faut mettre du bois quand le feu est sur le point de s'éteindre, non ?"
+}

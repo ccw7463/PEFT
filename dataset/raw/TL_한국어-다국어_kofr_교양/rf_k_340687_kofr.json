@@ -1,0 +1,17 @@
+{
+	"대분류": "교양",
+	"중분류": "KBS",
+	"소분류": "질문하는 기자들 Q",
+	"ID": "rf_k_340687",
+	"S-Code": "ko-KR",
+	"T-Code": "fr-FR",
+	"S-Length": "41",
+	"T-Length": "94",
+	"Ratio": "0.436170213",
+	"특수표현": "X",
+	"원문": "나가는 기사는 '다음 달 확진자 5,000명 가능', 이런 식으로 나가요.",
+	"MT": "L'article sortant dit ceci : 'Il est possible d'avoir 5 000 cas confirmés le mois prochain'.",
+	"1차수정": "L'article sortant dit ceci : « Il est possible d'avoir 5 000 cas confirmés le mois prochain ».",
+	"2차수정": "N/A",
+	"최종번역문": "L'article sortant dit ceci : « Il est possible d'avoir 5 000 cas confirmés le mois prochain »."
+}

@@ -1,0 +1,17 @@
+{
+	"대분류": "교양",
+	"중분류": "KBS",
+	"소분류": "질문하는 기자들 Q",
+	"ID": "rf_k_340343",
+	"S-Code": "ko-KR",
+	"T-Code": "fr-FR",
+	"S-Length": "26",
+	"T-Length": "60",
+	"Ratio": "0.433333333",
+	"특수표현": "X",
+	"원문": "기자의 이름이 쓰여 있으면 일반적인 기사입니다.",
+	"MT": "Si le nom du journaliste est écrit dessus, c'est un article normal.",
+	"1차수정": "Si le nom du journaliste est écrit, c'est un article normal.",
+	"2차수정": "N/A",
+	"최종번역문": "Si le nom du journaliste est écrit, c'est un article normal."
+}

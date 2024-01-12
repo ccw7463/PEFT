@@ -1,0 +1,17 @@
+{
+	"대분류": "교양",
+	"중분류": "KBS",
+	"소분류": "질문하는 기자들 Q",
+	"ID": "rf_k_336285",
+	"S-Code": "ko-KR",
+	"T-Code": "fr-FR",
+	"S-Length": "73",
+	"T-Length": "278",
+	"Ratio": "0.262589928",
+	"특수표현": "X",
+	"원문": "구청 직원이 거래 신고를 처리하면서 110제곱미터, 공급면적 33평 거래를 31제곱미터 거래로 잘못 입력했다가 곧바로 수정했습니다.",
+	"MT": "Lors du traitement du rapport de transaction, le personnel du bureau du quartier a saisi par erreur une transaction de 110 mètres carrés et une zone d'approvisionnement de 33 pyeong comme une transaction de 31 mètres carrés, et l'a corrigée immédiatement.",
+	"1차수정": "Lors du traitement du rapport de transaction, le employé de mairie d'arrondissement a saisi par erreur une transaction de 110 mètres carrés et une superficie d'approvisionnement de 33 pyeong comme une transaction de 31 mètres carrés, et l'a corrigée immédiatement.",
+	"2차수정": "Lors du traitement de la déclaration de transaction, un employé de la mairie d'arrondissement a saisi par erreur une transaction de 110 mètres carrés, donc une superficie d'approvisionnement de 33 pyeong, comme une transaction de 31 mètres carrés, et l'a corrigée immédiatement.",
+	"최종번역문": "Lors du traitement de la déclaration de transaction, un employé de la mairie d'arrondissement a saisi par erreur une transaction de 110 mètres carrés, donc une superficie d'approvisionnement de 33 pyeong, comme une transaction de 31 mètres carrés, et l'a corrigée immédiatement."
+}

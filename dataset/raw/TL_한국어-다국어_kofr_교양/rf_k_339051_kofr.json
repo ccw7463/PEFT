@@ -1,0 +1,17 @@
+{
+	"대분류": "교양",
+	"중분류": "KBS",
+	"소분류": "질문하는 기자들 Q",
+	"ID": "rf_k_339051",
+	"S-Code": "ko-KR",
+	"T-Code": "fr-FR",
+	"S-Length": "27",
+	"T-Length": "71",
+	"Ratio": "0.38028169",
+	"특수표현": "X",
+	"원문": "그럼 의도와는 달리 그 정보를 습득하게 됩니다. ",
+	"MT": "Vous obtiendrez alors des informations contraires à votre intention.",
+	"1차수정": "Vous obtiendrez alors ces informations contrairement à votre intention.",
+	"2차수정": "N/A",
+	"최종번역문": "Vous obtiendrez alors ces informations contrairement à votre intention."
+}

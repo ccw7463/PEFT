@@ -1,0 +1,17 @@
+{
+	"대분류": "교양",
+	"중분류": "MBN",
+	"소분류": "생생정보마당",
+	"ID": "rf_m_420481",
+	"S-Code": "ko-KR",
+	"T-Code": "fr-FR",
+	"S-Length": "32",
+	"T-Length": "76",
+	"Ratio": "0.421052632",
+	"특수표현": "X",
+	"원문": "자기가 양분을 취하기 때문에 용토는 양분이 없어야만 해요.",
+	"MT": "Le sol doit être exempt de nutriments car il prend ses propres nutriments.",
+	"1차수정": "Le sol doit être pauvre en nutriments car elle prend ses propres nutriments.",
+	"2차수정": "N/A",
+	"최종번역문": "Le sol doit être pauvre en nutriments car elle prend ses propres nutriments."
+}
